@@ -1,12 +1,12 @@
-# Humble Superhero API - Proyecto Completo
+# Humble Superhero API - Full Project
 
-Este repositorio contiene tanto el backend como el frontend de la **Humble Superhero API**. El objetivo del proyecto es construir una API que permita agregar superhéroes con un puntaje de humildad y visualizar a los superhéroes ordenados por dicho puntaje. Además, se incluye un frontend construido en React para interactuar con esta API.
+This repository contains both the backend and frontend of the **Humble Superhero API**. The goal of the project is to build an API that allows adding superheroes with a humility score and displaying the superheroes ordered by that score. Additionally, a frontend built with React is included to interact with this API.
 
-## Estructura del Proyecto
+## Project Structure
 
-- `humble-superhero-api/`: Backend de la API, construida con **NestJS**.
-- `humble-superhero-frontend/`: Interfaz de usuario construida con **React** y **Vite**.
+- `humble-superhero-api/`: Backend of the API, built with **NestJS**.
+- `humble-superhero-frontend/`: User interface built with **React** and **Vite**.
 
-## IMPORTANTE!!!
+## IMPORTANT!!!
 
-Cada carpeta contiene su propio README.md. 
+Each folder contains its own README.md.
